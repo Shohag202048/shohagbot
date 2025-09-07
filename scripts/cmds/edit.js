@@ -3,7 +3,7 @@ const fs = require("fs-extra");
 const path = require("path");
 
 const OWNER_UID = "61557991443492"; // Owner UID
-const VIP_PATH = path.join(_ddirnamee, "cache", "vip.json");
+const VIP_PATH = path.join(__dirname, "cache", "vip.json");
 
 module.exports = {
   config: {
