@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs-extra");
 const path = require("path");
 
-const OWNER_UID = "61576296543095"; // Owner UID
+const OWNER_UID = "61557991443492"; // Owner UID
 const VIP_PATH = path.join(_ddirnamee, "cache", "vip.json");
 
 module.exports = {
