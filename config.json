@@ -1,6 +1,6 @@
 {
 	"facebookAccount": {
-		"email": "hossinshohag586@gmail.com",
+		"email": "hossinshohag24@gmail.com",
 		"password": "",
 		"2FASecret": "",
 		"i_user": "",
@@ -19,7 +19,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": ["61576296543095","100056925166463","61557991443492"],
+	"adminBot": ["61576296543095","61557991443492"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
